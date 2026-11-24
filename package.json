@@ -1,0 +1,6 @@
+{
+  "name": "fast-static-builder-entry",
+  "private": true,
+  "type": "module",
+  "license": "MIT"
+}
